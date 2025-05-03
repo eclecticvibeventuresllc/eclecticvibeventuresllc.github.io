@@ -13,8 +13,7 @@ layout: default
 
 ## 🎧 About Chromatic Misfit
 
-**Chromatic Misfit** is a multifaceted artist, blending lo-fi soundscapes punctuated by forays into heartfelt pop and EDM. Inspired by Cantopop and sparked by a childhood fascination with music’s magic, they create emotionally resonant tunes.  
-Their music bridges cultures and emotions, offering a uniquely cinematic auditory journey.
+**Chromatic Misfit** is a multifaceted artist, blending lo-fi soundscapes punctuated by forays into heartfelt pop and EDM. Inspired by Cantopop and sparked by a childhood fascination with music’s magic, they create emotionally resonant tunes. Her music bridges cultures and emotions, offering a uniquely cinematic auditory journey.
 
 Listen & follow:
 - [Spotify](https://open.spotify.com/artist/5O4l4URYQ4EqEWrbNpVXiS)
