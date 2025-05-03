@@ -5,8 +5,8 @@ google_analytics:
 #theme: jekyll-theme-cayman
 remote_theme: tuur29/pages-themes-cayman
 colors:
-    gradient_left: "#155799"
-    gradient_right: "#159957"
+    gradient_left: "#e437e6"
+    gradient_right: "#7e1abe"
     header: "#fff"
     android_theme: "#000" # this default to gradient_color
     link: "#1e6bb8" # this default to gradient_color
