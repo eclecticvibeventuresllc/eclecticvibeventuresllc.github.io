@@ -2,122 +2,42 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+We are a woman-owned media studio making space for stillness in a loud world. Home to the artist Chromatic Misfit and rest tech applications, our work invites you to breathe, reflect, and imagine.
 
-[Link to another page](./another-page.html).
+---
 
-There should be whitespace between paragraphs.
+## 🎧 About Chromatic Misfit
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**Chromatic Misfit** is a multifaceted artist, blending lo-fi soundscapes punctuated by forays into heartfelt pop and EDM. Inspired by Cantopop and sparked by a childhood fascination with music’s magic, they create emotionally resonant tunes.  
+Their music bridges cultures and emotions, offering a uniquely cinematic auditory journey.
 
-# Header 1
+Listen & follow:
+- [Spotify](https://open.spotify.com/artist/5O4l4URYQ4EqEWrbNpVXiS)
+- [Bandcamp](https://chromaticmisfit.bandcamp.com/)
+- [YouTube](https://www.youtube.com/@ChromaticMisfit)
+- [Instagram](https://www.instagram.com/chromaticmisfit/)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## 📱 Rest Tech: Lofi Loop Haven
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Lofi Loop Haven** is our upcoming mobile app for ambient audio mixing—designed for focus, rest, and creativity.  
+Layer lo-fi, nature sounds, and atmospheric effects in a serene, customizable experience.
 
-### Header 3
+🛠️ Currently in development for Android and iOS.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## 💡 Our Mission
 
-#### Header 4
+We exist at the intersection of:
+- 🎶 Music
+- 📱 Technology
+- 🌿 Rest
+- 💫 Creativity
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+At **Eclectic Vibe Ventures**, we believe media can nourish—not just entertain.
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+© 2025 Eclectic Vibe Ventures LLC
