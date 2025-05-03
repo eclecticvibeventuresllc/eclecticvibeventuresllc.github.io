@@ -47,5 +47,3 @@ At **Eclectic Vibe Ventures**, we believe media can be more than noise.
 It can be **nourishment**—a sanctuary in motion.
 
 ---
-
-© 2025 Eclectic Vibe Ventures LLC
