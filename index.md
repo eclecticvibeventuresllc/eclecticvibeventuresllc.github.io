@@ -6,7 +6,9 @@ layout: default
 
 
 
-_We are a woman-owned media studio making space for stillness in a loud world. Home to the artist Chromatic Misfit and rest tech applications, our work invites you to breathe, reflect, and imagine._
+_We are a woman-owned media studio making space for stillness in a loud world._
+
+_Home to the artist Chromatic Misfit and rest tech applications, our work invites you to breathe, reflect, and imagine._
 
 
 
