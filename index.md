@@ -5,9 +5,7 @@ layout: default
 
 <div align="center" style="padding: 2em; border-radius: 1em; font-family: 'Helvetica Neue', sans-serif; max-width: 800px; margin: auto;">
   <h3 style="font-weight: normal; font-size: 1.2em;">
-    We are a <strong>woman-owned media studio</strong> making space for stillness in a loud world.  
-    <br><br>
-    Home to the artist <strong>Chromatic Misfit</strong> and rest tech applications,  
+    We are a <strong>woman-owned media studio</strong> making space for stillness in a loud world. Home to the artist <strong>Chromatic Misfit</strong> and rest tech applications,  
     our work invites you to <em>breathe</em>, <em>reflect</em>, and <em>imagine</em>.
   </h3>
 </div>
