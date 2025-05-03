@@ -10,6 +10,7 @@ layout: default
     Home to the artist <strong>Chromatic Misfit</strong> and rest tech applications,  
     our work invites you to <em>breathe</em>, <em>reflect</em>, and <em>imagine</em>.
   </h3>
+</div>
 
 
 
