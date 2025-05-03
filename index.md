@@ -2,15 +2,12 @@
 layout: default
 ---
 
-
 <div align="center" style="padding: 2em; border-radius: 1em; font-family: 'Helvetica Neue', sans-serif; max-width: 800px; margin: auto;">
   <h3 style="font-weight: normal; font-size: 1.2em;">
-    We are a <strong>woman-owned media studio</strong> making space for stillness in a loud world. Home to the artist <strong>Chromatic Misfit</strong> and rest tech applications,  
-    our work invites you to <em>breathe</em>, <em>reflect</em>, and <em>imagine</em>.
+    We are a <strong>woman-owned media studio</strong> exploring rest, rhythm, and resonance beyond the mainstream. Home to the artist <strong>Chromatic Misfit</strong> and experimental rest tech,  
+    our work is a quiet rebellion—inviting you to <em>breathe</em>, <em>reflect</em>, and <em>imagine new ways of being</em>.
   </h3>
 </div>
-
-
 
 ---
 
@@ -29,23 +26,25 @@ Listen & follow:
 
 ## 📱 Rest Tech: Lofi Loop Haven
 
-**Lofi Loop Haven** is our upcoming mobile app for ambient audio mixing—designed for focus, rest, and creativity.  
-Layer lo-fi, nature sounds, and atmospheric effects in a serene, customizable experience.
+**Lofi Loop Haven** is our upcoming mobile app for ambient audio layering—designed for deep focus, soothing routines, and creative flow.  
+Mix lo-fi, nature, and atmospheric textures in a personalized, minimalist interface.
 
-🛠️ Currently in development for Android and iOS.
+🛠️ In development for Android and iOS.
 
 ---
 
 ## 💡 Our Mission
 
-We exist at the intersection of:
+We build for the dreamers, deep feelers, nonlinear thinkers, and sensory seekers.
+
+Our work lives at the intersection of:
 - 🎶 Music
 - 📱 Technology
-- 🧠 Neurodivergence
-- 🌿 Rest
-- 💫 Creativity
+- 🌿 Intentional Rest
+- 💫 Creative Reimagination
 
-At **Eclectic Vibe Ventures**, we believe media can nourish—not just entertain.
+At **Eclectic Vibe Ventures**, we believe media can be more than noise.  
+It can be **nourishment**—a sanctuary in motion.
 
 ---
 
