@@ -3,16 +3,14 @@ layout: default
 ---
 
 
-
-
-
-_We are a woman-owned media studio making space for stillness in a loud world._
-
-_Home to the artist Chromatic Misfit and rest tech applications, our work invites you to breathe, reflect, and imagine._
-
-
-
-
+<div align="center" style="padding: 2em; background-color: #f8f8f8; border-radius: 1em; font-family: 'Helvetica Neue', sans-serif; max-width: 800px; margin: auto;">
+  <h3 style="font-weight: normal; font-size: 1.2em; color: #555;">
+    We are a <strong>woman-owned media studio</strong> making space for stillness in a loud world.  
+    <br><br>
+    Home to the artist <strong>Chromatic Misfit</strong> and rest tech applications,  
+    our work invites you to <em>breathe</em>, <em>reflect</em>, and <em>imagine</em>.
+  </h3>
+</div>
 
 
 ---
