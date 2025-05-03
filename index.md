@@ -2,6 +2,11 @@
 layout: default
 ---
 
+# Eclectic Vibe Ventures LLC  
+### Where tech slows down and sound becomes sanctuary
+
+---
+
 <div align="center" style="padding: 2em; border-radius: 1em; font-family: 'Helvetica Neue', sans-serif; max-width: 800px; margin: auto;">
   <h3 style="font-weight: normal; font-size: 1.2em;">
     We are a <strong>woman-owned media studio</strong> exploring rest, rhythm, and resonance beyond the mainstream. Home to the artist <strong>Chromatic Misfit</strong> and experimental rest tech,  
