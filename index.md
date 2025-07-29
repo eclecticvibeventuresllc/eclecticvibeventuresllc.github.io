@@ -28,7 +28,8 @@ Listen & follow:
 **Lofi Loop Haven** is our upcoming mobile app for ambient audio layering—designed for deep focus, soothing routines, and creative flow.  
 Mix lo-fi, nature, and atmospheric textures in a personalized, minimalist interface.
 
-🛠️ In development for Android and iOS.
+- ⚡ Available on Android: [Google Play](https://play.google.com/store/apps/details?id=com.eclecticvibeventures.lofiloophaven)
+- 🛠️ In development for iOS.
 
 ---
 
