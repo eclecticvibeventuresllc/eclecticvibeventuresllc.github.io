@@ -65,7 +65,7 @@ It can be **nourishment**—a sanctuary in motion.
     Email:
   </label>
     <br>
-    <input type="email" name="email"></input>
+    <input type="email" name="email">
     <br>
     <br>
   <label>
