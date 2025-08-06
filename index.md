@@ -56,9 +56,9 @@ It can be **nourishment**—a sanctuary in motion.
 >
 <label>Category:</label><br>
   <select name="category" id="category">
-    <option value="generalinquiry">General Inquiry</option>
-    <option value="appsupportios">App Support: iOS</option>
-    <option value="appsupportandroid">App Support: Android</option>
+    <option value="general-inquiry">General Inquiry</option>
+    <option value="app-support-ios">App Support: iOS</option>
+    <option value="app-support-android">App Support: Android</option>
   </select>
   <br><br>
   <label>
