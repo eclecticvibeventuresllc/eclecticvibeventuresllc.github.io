@@ -48,4 +48,36 @@ It can be **nourishment**—a sanctuary in motion.
 
 ---
 
+## 📧 Contact Us
+
+<form
+  action="https://formspree.io/f/movlkrvq"
+  method="POST"
+>
+<label>Category:</label><br>
+  <select name="category" id="category">
+    <option value="generalinquiry">General Inquiry</option>
+    <option value="appsupportios">App Support: iOS</option>
+    <option value="appsupportandroid">App Support: Android</option>
+  </select>
+  <br><br>
+  <label>
+    Email:
+  </label>
+    <br>
+    <input type="email" name="email"></input>
+    <br>
+    <br>
+  <label>
+    Message:
+  </label>
+    <br>
+    <textarea id="message" name="message" rows="5" cols="20"></textarea>
+    <br>
+    <br>
+  <button type="submit">Send</button>
+</form>
+
+---
+
 © 2025 Eclectic Vibe Ventures LLC
