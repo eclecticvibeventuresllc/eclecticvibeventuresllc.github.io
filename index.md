@@ -29,7 +29,7 @@ Listen & follow:
 Mix lo-fi, nature, and atmospheric textures in a personalized, minimalist interface.
 
 - ⚡ Available on Android: [Google Play](https://play.google.com/store/apps/details?id=com.eclecticvibeventures.lofiloophaven)
-- 🛠️ In development for iOS.
+- ⚡ Available iOS: [App Store](https://apps.apple.com/app/lofi-loop-haven/id6749748069)
 
 ---
 
