@@ -23,13 +23,18 @@ Listen & follow:
 
 ---
 
-## 📱 Rest Tech: Lofi Loop Haven
+## 📱 Rest Tech
 
 **Lofi Loop Haven** is our upcoming mobile app for ambient audio layering—designed for deep focus, soothing routines, and creative flow.  
 Mix lo-fi, nature, and atmospheric textures in a personalized, minimalist interface.
 
 - ⚡ Available on Android: [Google Play](https://play.google.com/store/apps/details?id=com.eclecticvibeventures.lofiloophaven)
-- ⚡ Available iOS: [App Store](https://apps.apple.com/app/lofi-loop-haven/id6749748069)
+- ⚡ Available on iOS: [App Store](https://apps.apple.com/app/lofi-loop-haven/id6749748069)
+
+**Emotion Sanctuary** is an in-development sound healing app focused on binaural beats, healing frequencies, and life-layer soundscapes.  
+It offers guided recommendations, session tools, and gentle customization to help you shape your own calm.
+
+- ⚪ Android & iOS links coming soon
 
 ---
 
@@ -80,4 +85,4 @@ It can be **nourishment**—a sanctuary in motion.
 
 ---
 
-© 2025 Eclectic Vibe Ventures LLC
+© 2026 Eclectic Vibe Ventures LLC
