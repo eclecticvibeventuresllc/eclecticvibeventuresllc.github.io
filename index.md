@@ -62,8 +62,10 @@ It can be **nourishment**—a sanctuary in motion.
 <label>Category:</label><br>
   <select name="category" id="category">
     <option value="general-inquiry">General Inquiry</option>
-    <option value="app-support-ios">App Support: iOS</option>
-    <option value="app-support-android">App Support: Android</option>
+    <option value="app-support-llh-ios">App Support: iOS - Lofi Loop Haven</option>
+    <option value="app-support-llh-android">App Support: Android - Lofi Loop Haven</option>
+    <option value="app-support-emos-ios">App Support: iOS - Emotion Sanctuary</option>
+    <option value="app-support-emos-android">App Support: Android - Emotion Sanctuary</option>
   </select>
   <br><br>
   <label>
