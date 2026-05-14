@@ -34,7 +34,8 @@ Mix lo-fi, nature, and atmospheric textures in a personalized, minimalist interf
 **Emotion Sanctuary** is an in-development sound healing app focused on binaural beats, healing frequencies, and life-layer soundscapes.  
 It offers guided recommendations, session tools, and gentle customization to help you shape your own calm.
 
-- ⚪ Android & iOS links coming soon
+- ⚡ Available on Android: [Google Play](https://play.google.com/store/apps/details?id=com.eclecticvibeventures.emotionsanctuary)
+- ⚪ iOS version coming soon
 
 ---
 
