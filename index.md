@@ -11,7 +11,7 @@ layout: default
 
 ---
 
-## 🎧 About Chromatic Misfit
+## 🎧 Music
 
 **Chromatic Misfit** is a multifaceted artist, blending lo-fi soundscapes punctuated by forays into heartfelt pop and EDM. Inspired by Cantopop and sparked by a childhood fascination with music’s magic, they create emotionally resonant tunes. Her music bridges cultures and emotions, offering a uniquely cinematic auditory journey.
 
@@ -20,6 +20,16 @@ Listen & follow:
 - [Bandcamp](https://chromaticmisfit.bandcamp.com/)
 - [YouTube](https://www.youtube.com/@ChromaticMisfit)
 - [Instagram](https://www.instagram.com/chromaticmisfit/)
+
+
+
+**dyschordinaire** is lowkey creating lofi music, focusing on EPs that foster long stretches of chill.
+
+Listen & follow:
+- [Spotify](https://open.spotify.com/artist/5A8t4PAlCNW0iAfVughFoy)
+- [Bandcamp](https://dyschordinaire.bandcamp.com)
+- [YouTube](https://www.youtube.com/@dyschordinaire)
+- [Instagram](https://www.instagram.com/dyschordinaire)
 
 ---
 
