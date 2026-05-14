@@ -4,7 +4,7 @@ layout: default
 
 <div align="center" style="padding: 2em; border-radius: 1em; font-family: 'Helvetica Neue', sans-serif; max-width: 800px; margin: auto;">
   <h3 style="font-weight: normal; font-size: 1.2em;">
-    We are a <strong>woman-owned media studio</strong> exploring rest, rhythm, and resonance beyond the mainstream. Home to the artist <strong>Chromatic Misfit</strong> and experimental rest tech,  
+    We are a <strong>woman-owned media studio</strong> exploring rest, rhythm, and resonance beyond the mainstream. Home to the artists <strong>Chromatic Misfit</strong> & <strong>dyschordinaire</strong> as well as experimental rest tech,  
     our work is a quiet rebellion—inviting you to <em>breathe</em>, <em>reflect</em>, and <em>imagine new ways of being</em>.
   </h3>
 </div>
