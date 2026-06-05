@@ -41,7 +41,7 @@ Mix lo-fi, nature, and atmospheric textures in a personalized, minimalist interf
 - ⚡ Available on Android: [Google Play](https://play.google.com/store/apps/details?id=com.eclecticvibeventures.lofiloophaven)
 - ⚡ Available on iOS: [App Store](https://apps.apple.com/app/lofi-loop-haven/id6749748069)
 
-**Emotion Sanctuary** is a sound healing app focused on binaural beats, healing frequencies, and life-layer soundscapes.  
+**Sound Sanctuary** is a sound healing app focused on binaural beats, healing frequencies, and life-layer soundscapes.  
 It offers guided recommendations, session tools, and gentle customization to help you shape your own calm.
 
 - ⚡ Available on Android: [Google Play](https://play.google.com/store/apps/details?id=com.eclecticvibeventures.emotionsanctuary)
@@ -75,8 +75,8 @@ It can be **nourishment**—a sanctuary in motion.
     <option value="general-inquiry">General Inquiry</option>
     <option value="app-support-llh-ios">App Support: iOS - Lofi Loop Haven</option>
     <option value="app-support-llh-android">App Support: Android - Lofi Loop Haven</option>
-    <option value="app-support-emos-ios">App Support: iOS - Emotion Sanctuary</option>
-    <option value="app-support-emos-android">App Support: Android - Emotion Sanctuary</option>
+    <option value="app-support-sounds-ios">App Support: iOS - Sound Sanctuary</option>
+    <option value="app-support-sounds-android">App Support: Android - Sound Sanctuary</option>
   </select>
   <br><br>
   <label>
