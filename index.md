@@ -36,14 +36,14 @@ Listen & follow:
 ## 📱 Rest Tech
 
 **Lofi Loop Haven** is our mobile app for ambient audio layering—designed for deep focus, soothing routines, and creative flow.  
-Mix lo-fi, nature, and atmospheric textures in a personalized, minimalist interface. Featuring non-AI music from indepedent music artist Chromatic Misfit.
+Mix lo-fi, nature, and atmospheric textures in a personalized, minimalist interface. Featuring original and non-AI music from indepedent music artist Chromatic Misfit.
 
 - ⚡ Available on Android: [Google Play](https://play.google.com/store/apps/details?id=com.eclecticvibeventures.lofiloophaven)
 - ⚡ Available on iOS: [App Store](https://apps.apple.com/app/lofi-loop-haven/id6749748069)
 
 **Sound Sanctuary** is a sound app focused on binaural beats, healing frequencies, and atmospheric soundscapes.  
 It offers guided recommendations, session tools, and gentle customization to help you shape your own calm.
-Mix binaural, healing frequencies, and atmospheric textures in a personalized interface. Featuring non-AI music from the music producer behind Chromatic Misfit and Dyschordinaire.
+Mix binaural, healing frequencies, and atmospheric textures in a personalized interface. Featuring original and non-AI music from the music producer behind Chromatic Misfit and Dyschordinaire.
 
 - ⚡ Available on Android: [Google Play](https://play.google.com/store/apps/details?id=com.eclecticvibeventures.emotionsanctuary)
 - ⚡ Available on iOS: [App Store](https://apps.apple.com/us/app/sound-sanctuary/id6774872571)
