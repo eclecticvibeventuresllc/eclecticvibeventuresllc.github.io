@@ -39,7 +39,7 @@ Listen & follow:
 Mix lo-fi, nature, and atmospheric textures in a personalized, minimalist interface. Featuring original and non-AI music from indepedent music artist Chromatic Misfit.
 
 - ⚡ Available on Android: [Google Play](https://play.google.com/store/apps/details?id=com.eclecticvibeventures.lofiloophaven)
-- ⚡ Available on iOS: [App Store](https://apps.apple.com/app/lofi-loop-haven/id6749748069)
+- ⚡ Available on iOS: [App Store](https://apps.apple.com/us/app/lofi-loop-haven/id6749748069)
 
 **Sound Sanctuary** is a sound app focused on binaural beats, healing frequencies, and atmospheric soundscapes.  
 It offers guided recommendations, session tools, and gentle customization to help you shape your own calm.
